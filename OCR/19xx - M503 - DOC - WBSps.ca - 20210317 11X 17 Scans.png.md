@@ -1,5 +1,5 @@
 # 19xx - M503 - DOC - WBSps.ca - 20210317 11X 17 Scans.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -154,7 +154,7 @@ ISS
 
 ```json
 {
- "file": "Modules/UNSORTED/M503/19xx - M503 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
+ "file": "Modules/UNSORTED/M503/MANUALS/19xx - M503 - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
  "sha256": "fd2574a67d6fcda8f831bd940e40f717356cca62262878574eaf16c56ebc13a1",
  "kind": "doc",
  "models": [
