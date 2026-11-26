@@ -33,7 +33,7 @@ Wiki page: [M503](../../../../PAGES/M503.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 82 connected wire groups from 558 runs, 4 dotted junctions
 
-Every curve, box, word and wire group: [1968 - 503-09-001 - CUE AMPLIFIER FRAME WIRING - DRN C.S. O'CONNELL (traced).json](../SCHEMATICS/1968%20-%20503-09-001%20-%20CUE%20AMPLIFIER%20FRAME%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20(traced).json) (the CAD file: `1968 - 503-09-001 - CUE AMPLIFIER FRAME WIRING - DRN C.S. O'CONNELL (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 503-09-001 - CUE AMPLIFIER FRAME WIRING - DRN C.S. O'CONNELL (traced).json](../SCHEMATICS/1968%20-%20503-09-001%20-%20CUE%20AMPLIFIER%20FRAME%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20%28traced%29.json) (the CAD file: `1968 - 503-09-001 - CUE AMPLIFIER FRAME WIRING - DRN C.S. O'CONNELL (traced).dxf`).
 
 ## Full text
 

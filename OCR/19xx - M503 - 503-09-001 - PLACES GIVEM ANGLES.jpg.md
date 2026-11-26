@@ -22,7 +22,7 @@ Wiki page: [M503](../../../../PAGES/M503.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 83 connected wire groups from 543 runs, 1 dotted junctions
 
-Every curve, box, word and wire group: [19xx - M503 - 503-09-001 - PLACES GIVEM ANGLES (traced).json](../SCHEMATICS/19xx%20-%20M503%20-%20503-09-001%20-%20PLACES%20GIVEM%20ANGLES%20(traced).json) (the CAD file: `19xx - M503 - 503-09-001 - PLACES GIVEM ANGLES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M503 - 503-09-001 - PLACES GIVEM ANGLES (traced).json](../SCHEMATICS/19xx%20-%20M503%20-%20503-09-001%20-%20PLACES%20GIVEM%20ANGLES%20%28traced%29.json) (the CAD file: `19xx - M503 - 503-09-001 - PLACES GIVEM ANGLES (traced).dxf`).
 
 ## Full text
 
