@@ -1,23 +1,18 @@
-# M503 Cue Amplifier · Unsorted
+# M503 Cue Amplifier · Amplifiers
 
 Ward-Beck Systems M503, 1968|1. Wiki page: [M503 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M503.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 7 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 2 |
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
-
-Not on Google Drive yet: `1968 - 503-09-001 - CUE AMPLIFIER FRAME WIRING - DRN C.S. O'CONNELL.jpg`
 
 ## Manuals and documents
 
@@ -34,7 +29,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1968 - 503-09-001 - CUE AMPLIFIER FRAME WIRING - DRN C.S. O'CONNELL.kicad_sch](KICAD/1968%20-%20503-09-001%20-%20CUE%20AMPLIFIER%20FRAME%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL.kicad_sch)
 - [19xx - M503 - 503-09-001 - PLACES GIVEM ANGLES.kicad_sch](KICAD/19xx%20-%20M503%20-%20503-09-001%20-%20PLACES%20GIVEM%20ANGLES.kicad_sch)
 - [M503.kicad_sym](KICAD/M503.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
