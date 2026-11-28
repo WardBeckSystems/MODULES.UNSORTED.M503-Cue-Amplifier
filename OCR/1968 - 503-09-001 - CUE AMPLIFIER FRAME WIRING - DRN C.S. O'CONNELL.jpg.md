@@ -1,5 +1,5 @@
 # 1968 - 503-09-001 - CUE AMPLIFIER FRAME WIRING - DRN C.S. O'CONNELL.jpg
-Wiki page: [M503](../../../../PAGES/M503.md)
+Wiki page: [M503](../)
 
 
 - **Year:** 1968 (title block date)

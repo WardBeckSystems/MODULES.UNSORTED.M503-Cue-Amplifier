@@ -1,6 +1,6 @@
 # M503 Cue Amplifier · Amplifiers
 
-Ward-Beck Systems M503, 1968|1. Wiki page: [M503 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M503.html)
+Ward-Beck Systems M503, 1968|1. Wiki page: [M503 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M503-Cue-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
